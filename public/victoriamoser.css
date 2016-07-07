@@ -18,15 +18,30 @@ h1 {
   color: rgba(254, 200, 2, 0.75);
   margin: 0;
 }
-h2 {
+.quote {
   font-family: 'La Belle Aurore';
-  text-align: center;
-  font-size: 4em;
+  text-align: justify;
+  font-size: 2em;
   color: rgba(254, 200, 2, 0.75);
+  margin-top: 5%;
+  margin-bottom: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.author {
+  font-family: 'La Belle Aurore';
+  float: right;
+  font-size: 1.5em;
+  color: rgba(254, 200, 2, 0.75);
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 5%;
 }
 h3 {
   text-align: center;
   color: white;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 p {
   text-align: justify;
