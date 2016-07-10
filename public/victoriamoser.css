@@ -97,3 +97,9 @@ a:hover {
   font-family: 'Playfair Display';
   font-style:
 }
+
+.copyright {
+  color: white;
+  text-align: center;
+  font-size: 0.75em;
+}
