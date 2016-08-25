@@ -100,6 +100,10 @@ Author URI: http://www.Xpeedstudio.com
     .main_contactus_area input[type=submit] {
         width: 40%;
     }
+    .main_home {
+        padding: 170px 0px 170px 0px;
+        position: relative;
+    }
 }
 
 
@@ -108,7 +112,3 @@ Author URI: http://www.Xpeedstudio.com
         height: 680px;
     }
 }
-
-
-
-

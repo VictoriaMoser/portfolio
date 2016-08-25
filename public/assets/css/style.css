@@ -565,6 +565,9 @@ nav ul li {
   text-align: center;
 }
 
+#social-links section{
+}
+
 .social-links a:hover {
   color: rgba(254, 200, 2, 0.75);
 }
