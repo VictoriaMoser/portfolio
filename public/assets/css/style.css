@@ -228,13 +228,6 @@ textarea.form-control:focus:not([readonly]) {
 /*==============================================================
             Navigation Style
 ================================================================*/
-
-/*.cd-header a.brand-logo img{
-    width: 8%;
-    margin-left: 10%;
-    padding: 5px;
-    margin-top: 20px;
-}*/
 .cd-header{
     position: fixed;
     top: 0;
