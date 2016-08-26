@@ -140,7 +140,9 @@ select,
 textarea {
   margin: 0;
   font: inherit;
-  color: inherit;
+  color: rgba(254, 200, 2, 0.75);
+  background-color: black;
+  border-color: black;
 }
 
 button {

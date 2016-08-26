@@ -97,8 +97,9 @@ Author URI: http://www.Xpeedstudio.com
     html {
         font-size: 70.5%;
     }
-    .main_contactus_area input[type=submit] {
+    .main_contact_area input[type=submit] {
         width: 40%;
+        color: rgba(254, 200, 2, 0.75);
     }
     .main_home {
         padding: 170px 0px 170px 0px;

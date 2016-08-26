@@ -54,7 +54,7 @@ jQuery(document).ready(function ($) {
     });
 
 
-// carousel Testimonial slider    
+// carousel Testimonial slider
     //   $('.carousel').carousel();
 
     /*---------------------------------------------*
@@ -161,12 +161,12 @@ jQuery(document).ready(function ($) {
                 900
                 );
     });
-    
-    
+
+
 // scrolldown icon
 $('.scrolldown a').bind('click', function () {
     $('html , body').stop().animate({
-        scrollTop: $($(this).attr('href')).offset().top - 160
+        scrollTop: $($(this).attr('href')).offset().top
     }, 1500, 'easeInOutExpo');
     event.preventDefault();
 });
@@ -194,4 +194,3 @@ jQuery(document).on('click', '.navbar-collapse.in', function (e) {
         $(this).collapse('hide');
     }
 });
-
