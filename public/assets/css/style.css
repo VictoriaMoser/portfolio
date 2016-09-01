@@ -262,6 +262,11 @@ nav ul li {
     margin-top: 2%;
 }
 
+.cd-menu-trigger a:hover {
+  color: rgba(254, 200, 2, 0.75) !important;
+  transition: all 250ms ease-in;
+}
+
 /*==============================================================
             Head Title
 ================================================================*/
