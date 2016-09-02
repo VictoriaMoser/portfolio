@@ -267,7 +267,7 @@ nav ul li {
   transition: all 250ms ease-in;
 }
 
-.fa-lg {
+.fa-code {
     font-size: 2em;
     color: #fff;
     display: inline-block;
@@ -281,7 +281,7 @@ nav ul li {
     font-weight: bold;   
 }
 
-.fa-lg a:hover {
+.fa-code a:hover {
     color: rgba(254, 200, 2, 0.75) !important;
     transition: all 250ms ease-in;
 }
