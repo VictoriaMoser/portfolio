@@ -272,6 +272,12 @@ nav ul li {
     line-height: .75em;
     vertical-align: -15%;
     color: #fff;
+    text-align: center;
+}
+
+.fa-code a:hover {
+    color: rgba(254, 200, 2, 0.75) !important;
+    transition: all 250ms ease-in;
 }
 
 /*==============================================================
