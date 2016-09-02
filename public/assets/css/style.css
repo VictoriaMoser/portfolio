@@ -269,12 +269,17 @@ nav ul li {
 
 .fa-lg {
     font-size: 2em;
-    line-height: .75em;
-    vertical-align: -15%;
     color: #fff;
-    text-align: center;
-    margin-left: 1em;
-    margin-top: 0.5em;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    padding: 0 .8em;
+    text-transform: uppercase;
+    font-weight: bold;   
 }
 
 .fa-lg a:hover {
