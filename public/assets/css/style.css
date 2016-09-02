@@ -267,24 +267,6 @@ nav ul li {
   transition: all 250ms ease-in;
 }
 
-.fa-code {
-    font-size: 2em;
-    color: #fff;
-    display: inline-block;
-    position: absolute;
-    left: 0;
-    top: 0;
-    height: 50px;
-    width: 50px;
-    line-height: 50px;
-    padding: 0.8em;
-    font-weight: bold;   
-}
-
-.fa-code a:hover {
-    color: rgba(254, 200, 2, 0.75) !important;
-    transition: all 250ms ease-in;
-}
 
 /*==============================================================
             Head Title
