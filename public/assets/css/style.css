@@ -268,14 +268,16 @@ nav ul li {
 }
 
 .fa-lg {
-    font-size: 1.33333333em;
+    font-size: 2em;
     line-height: .75em;
     vertical-align: -15%;
     color: #fff;
     text-align: center;
+    margin-left: 1em;
+    margin-top: 0.5em;
 }
 
-.fa-code a:hover {
+.fa-lg a:hover {
     color: rgba(254, 200, 2, 0.75) !important;
     transition: all 250ms ease-in;
 }
